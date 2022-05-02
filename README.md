@@ -1,4 +1,4 @@
-it's a free version of solana urban bot - Urban-minting-bot.
+It's a free version of solana urban bot - Urban-minting-bot.
 What will help you to mint, but not guaranteed.
 
 Easy setup which uses ChromeDriver to open up a new chrome instance and mint the nft you are looking for quicker than a human. This bot does not guarantee you will get your NFT, this bot simply goes faster than humans to mint and automates everything since you do not have to click yourself.
