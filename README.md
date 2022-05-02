@@ -21,7 +21,7 @@ This bot uses ChromeDriver so on mac there is a possiblity that you will have to
 The chrome window will appear WITHOUT loading the images, this is to ensure the fastest loading.
 
 Tutorial
-Clone the repository / Download zip file
+1) Clone the repository / Download zip file
 
 git clone https://github.com/WhiteListArtist/urban-minting-bot.git
 
@@ -29,11 +29,11 @@ OR
 
 Download Zip File
 
-Be sure you have installed Python correctly, here is a link to download
+2) Be sure you have installed Python correctly, here is a link to download
 
-Open command prompt
+3) Open command prompt
 
-Install all python module
+4) Install all python module
 
 pip install selenium requests webdriver-manager
 
@@ -43,7 +43,7 @@ python -m pip install git+https://github.com/np-8/webdriver_manager.git
 
 (currently using this since the last webdriver manager main isn't working)
 
-Replace Phantom Passphrase and password in config.json
+5) Replace Phantom Passphrase and password in config.json
 
 launchpadLink --> Launchpad link on magic eden
 
@@ -51,11 +51,11 @@ seedPhrase --> your phantom wallet passphrase (Careful do not share this key)
 
 password --> A password for your wallet
 
-Open CMD and go to directory
+6) Open CMD and go to directory
 
 cd /path/to/directory/magiceden-mint-bot/windows
 
-Run the python file
+7) Run the python file
 
 windows : python main.py
 
