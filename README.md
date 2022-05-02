@@ -1,5 +1,6 @@
 It's a free version of solana urban bot, that will help you to mint, but not guaranteed.
 
+
 Easy setup which uses ChromeDriver to open up a new chrome instance and mint the nft you are looking for quicker than a human. This bot does not guarantee you will get your NFT, this bot simply goes faster than humans to mint and automates everything since you do not have to click yourself.
 You can launch multiple instances of the bot to bypass minting limit / wallet
 I appreciate any support, here is my solana wallet: HeUaPBnuWdG4xbCoksn6h7PxwEvCrpkeeUW5XAgrkMNB
